@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b9a028708f954cb1c68acc0f",
+  "owner": "kayuvao",
+  "repo": "page-f7dde1db07fec5ffd9d99e4a",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f7dde1db07fec5ffd9d99e4a",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ac6387ca3e8ac3de6e1c23573a57fcd33005a1d7e0e843eee21a0a207e6c9a4f",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供机场订阅式网络加速与多平台客户端说明，涵盖套餐流量、设备数量、流媒体与游戏线路差异，以及从选购到连接的操作步骤。",
+          "AI_DESCRIPTION": "GPT代充提供机场订阅式网络加速与多平台客户端说明，涵盖套餐流量、设备数量、流媒体与游戏线路差异，以及从选购到连接的操作步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n<style>\n:root{--bg:#f6f3ec;--ink:#14281f;--green:#1b4332;--mid:#2d6a4f;--card:#fffdf8;--line:#d5e2d4;--soft:#e7f0e6}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{font-family:Georgia,'Songti SC','Noto Serif SC','Source Han Serif SC',serif;background:var(--bg);color:var(--ink);font-size:17px;line-height:1.75;overflow-x:hidden}\na{color:var(--mid)}\nheader,footer{background:var(--green);color:#f4f7f2}\nheader a,footer a{color:#e5f3ea;text-decoration:none}\n.wrap{width:min(1080px,calc(100% - 32px));margin:0 auto}\nnav{display:flex;flex-wrap:wrap;gap:12px 18px;padding:14px 0;font-size:15px}\nh1{font-size:2rem;line-height:1.3;margin:8px 0 12px}\nh2{font-size:1.5rem;line-height:1.35;color:var(--green);margin:0 0 12px}\nh3{font-size:1.12rem;line-height:1.4;margin:0 0 8px}\np,li{overflow-wrap:anywhere}\n.hero{padding:28px 0 36px}\n.lead{font-size:1.05rem;max-width:46rem}\n.split{display:flex;gap:22px;align-items:stretch;margin:28px 0}\n.split.reverse{flex-direction:row-reverse}\n.split>*{flex:1;min-width:0}\n.panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 22px}\n.kicker{display:inline-block;background:var(--soft);color:var(--green);border-radius:999px;padding:2px 10px;font-size:14px;margin-bottom:8px}\n.plans{display:flex;flex-wrap:wrap;gap:16px}\n.plan{flex:1 1 250px;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px}\n.plan.featured{border:2px solid var(--green);background:#f3faf4}\n.price{font-size:1.6rem;color:var(--green);margin:6px 0}\n.year{color:#3d5348;font-size:15px}\nul{margin:8px 0 0;padding-left:1.2rem}\n.clients{display:flex;flex-wrap:wrap;gap:16px}\n.client{flex:1 1 220px;min-width:0;background:#f3faf4;border-radius:14px;padding:16px;border:1px solid var(--line)}\n.btn{display:inline-block;margin-top:8px;background:var(--green);color:#f6f3ec;text-decoration:none;border-radius:10px;padding:8px 12px}\ndetails{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:10px 0}\nsummary{font-weight:700;cursor:pointer;color:var(--green)}\nfooter{margin-top:20px;padding:22px 0 32px;font-size:15px}\n@media(max-width:800px){.split,.split.reverse{flex-direction:column}h1{font-size:1.65rem}body{font-size:16.5px}}\n</style>\n\n\n<header>\n<div class=\"wrap\">\n<nav>\n<a href=\"#about\">品牌简介</a>\n<a href=\"#scenes\">使用场景</a>\n<a href=\"#plans\">订阅套餐</a>\n<a href=\"#clients\">客户端选择</a>\n<a href=\"#guide\">操作说明</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</header>\n<main class=\"wrap\">\n<section class=\"hero\">\n<p class=\"kicker\">网络加速 · 机场订阅 · 多平台客户端</p>\n<h1>GPT代充</h1>\n<p class=\"lead\">GPT代充是面向跨境办公、公开资料查阅与日常流媒体使用的订阅制网络加速服务。品牌名中的「代充」指按月或按年为加速服务续费，不代操作他人的第三方账号，也不提供账号买卖。你可以在本页比较流量、同时在线设备和线路类型，再按所用系统查看客户端说明。</p>\n</section>\n<section class=\"split\" id=\"about\">\n<div class=\"panel\">\n<h2>品牌简介</h2>\n<p>服务以订阅链接交付节点列表。基础线路适合网页与文档，旗舰版加入流媒体解锁和游戏向专线优化，团队版提高设备数与流量上限。页面只说明产品差异和连接步骤，具体节点会随维护轮换，以客户端里更新后的列表为准。</p>\n<p>官网下载入口集中在客户端选择区。各平台安装包与订阅导入方式不同，先确认系统，再阅读对应说明，避免下错版本。</p>\n</div>\n<div class=\"panel\">\n<h2>适合谁先看</h2>\n<h3>个人轻量使用</h3>\n<p>每月流量不大、设备不超过三台时，基础版通常足够。</p>\n<h3>流媒体与游戏</h3>\n<p>需要更多解锁范围或更稳定的游戏线路时，优先比较旗舰版。</p>\n<h3>小团队共用</h3>\n<p>设备多、希望统一订阅时，再看团队版的带宽与路由说明。</p>\n</div>\n</section>\n<section class=\"split reverse\" id=\"scenes\">\n<div class=\"panel\">\n<h2>使用场景</h2>\n<h3>跨境办公</h3>\n<p>远程会议、邮件和云文档需要连续连接时，可固定一台主力设备，把其余设备留给手机临时查阅。</p>\n<h3>公开资料与开发文档</h3>\n<p>浏览公开网站、软件文档和代码托管页面时，选择延迟较低的网页线路，不必占用游戏专线。</p>\n<h3>流媒体</h3>\n<p>解锁范围随套餐变化。基础版覆盖基础流媒体，旗舰版与团队版提供更完整的原生解锁线路，片源是否可播仍取决于版权地区。</p>\n<h3>游戏与小团队</h3>\n<p>旗舰版标注了 IPLC 专线的游戏优化；团队版适合二十台以内设备共享同一订阅，并由专人统一更新。</p>\n</div>\n<div class=\"panel\">\n<h2>选购时看三件事</h2>\n<ul>\n<li>流量：按自然月计算，超额后需等待下个周期或升级套餐。</li>\n<li>设备：同时在线指同一时刻连接的设备数，不是历史登录总数。</li>\n<li>线路：网页、流媒体和游戏不要混用同一条拥挤节点，更新订阅后再挑选。</li>\n</ul>\n</div>\n</section>\n<section id=\"plans\">\n<h2>订阅套餐</h2>\n<p>以下为当前展示价格。年付按标价一次性支付，中途更换套餐以账户内规则为准。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"year\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<h3>旗舰版</h3>\n<p class=\"kicker\">多数人比较的一档</p>\n<p class=\"price\">¥35/月</p>\n<p class=\"year\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"year\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</section>\n<section id=\"clients\">\n<h2>客户端选择</h2>\n<p>先按设备挑选客户端，再用同一条订阅同步节点。下载入口位于本页对应小节，不跳转到无关站点。</p>\n<div class=\"clients\">\n<article class=\"client\" id=\"windows\">\n<h3>Windows 客户端</h3>\n<p>适合办公电脑。安装后允许系统网络组件，添加订阅，手动更新一次节点，再从网页线路里试连。</p>\n<a class=\"btn\" href=\"#guide\">查看导入步骤</a>\n</article>\n<article class=\"client\" id=\"mac\">\n<h3>macOS 客户端</h3>\n<p>与 Windows 共用订阅。若系统提示来自未识别开发者，只从本页入口获取说明，不要改用来路不明的安装包。</p>\n<a class=\"btn\" href=\"#guide\">查看导入步骤</a>\n</article>\n<article class=\"client\" id=\"ios\">\n<h3>iOS 客户端</h3>\n<p>手机适合临时查阅。注意同时在线设备会计入套餐上限，不用时断开，把名额留给电脑。</p>\n<a class=\"btn\" href=\"#faq\">查看设备计数</a>\n</article>\n<article class=\"client\" id=\"android\">\n<h3>Android 客户端</h3>\n<p>导入订阅后可按场景切换线路。系统省电策略可能断开后台连接，长时间下载前保持前台或关闭限制。</p>\n<a class=\"btn\" href=\"#guide\">查看导入步骤</a>\n</article>\n<article class=\"client\" id=\"linux\">\n<h3>Linux 与通用订阅</h3>\n<p>服务器或开发机使用通用订阅链接。只在自有设备保存链接，团队版建议由管理员统一分发和轮换。</p>\n<a class=\"btn\" href=\"#plans\">返回套餐对比</a>\n</article>\n</div>\n</section>\n<section class=\"split\" id=\"guide\">\n<div class=\"panel\">\n<h2>操作说明</h2>\n<ol>\n<li>在套餐区确认月流量、同时在线设备数，以及是否需要流媒体或游戏线路。</li>\n<li>比较月付与年付。年付金额已写在各套餐下方，适合确定会连续使用的人。</li>\n<li>打开上方客户端选择，进入与自己系统对应的说明。</li>\n<li>在客户端添加订阅并更新节点。更新完成前不要连续切换线路。</li>\n<li>网页优先普通或低延迟节点；流媒体选择标注解锁的线路；游戏再使用旗舰版中的专线优化。</li>\n<li>结束后断开连接。流量按实际传输计算，后台更新和视频会更快用完额度。</li>\n</ol>\n</div>\n<div class=\"panel\">\n<h2>连接前核对</h2>\n<h3>时间与权限</h3>\n<p>设备时间误差过大会导致订阅校验失败。桌面系统还需允许客户端创建本地网络连接。</p>\n<h3>不要混用订阅</h3>\n<p>一台设备保留一条有效订阅即可。重复导入会造成节点重复，看起来像连上了，实际仍走旧线路。</p>\n<h3>合规使用</h3>\n<p>请在当地法律和所访问服务的条款允许范围内使用。本服务不用于侵入他人系统、窃取账号或隐藏违法活动。</p>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>GPT代充是做什么的？</summary>\n<p>GPT代充是订阅制网络加速品牌，提供机场订阅、多平台客户端说明和按流量与设备数区分的套餐。名称里的代充只表示用户为加速服务续费，不代充或交易他人的人工智能账号。</p>\n</details>\n<details>\n<summary>官网下载应该从哪里进入？</summary>\n<p>从本页「客户端选择」进入对应系统说明。Windows、macOS、iOS、Android 和 Linux 的导入方式不同，先看说明再安装，可以减少下错包和重复订阅。</p>\n</details>\n<details>\n<summary>基础版、旗舰版和团队版怎么选？</summary>\n<p>三台设备、每月 100GB 且只需要基础流媒体，选基础版。需要 300GB、五台设备、完整流媒体解锁和游戏专线优化，选旗舰版。二十台设备、1000GB 以及定制路由和客户经理，选团队版。</p>\n</details>\n<details>\n<summary>同时在线设备是怎样计算的？</summary>\n<p>同一时刻处于连接状态的手机、电脑和平板都计数。断开后名额释放。基础版上限 3 台，旗舰版 5 台，团队版 20 台。超过上限时，新的设备会无法连接，先断开不用的设备即可。</p>\n</details>\n<details>\n<summary>订阅导入后为什么看不到新节点？</summary>\n<p>先手动更新订阅，再检查链接是否完整、设备时间是否准确。旧配置未删除时，客户端可能仍显示过期节点。保留一条最新订阅，更新成功后再选择线路。</p>\n</details>\n<details>\n<summary>年付和月付可以一起理解吗？</summary>\n<p>月付适合先试用：基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。确定长期使用时，对应年付为 ¥150/年、¥350/年、¥850/年。年付不是额外赠送流量，流量仍按每月额度计算。</p>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<div class=\"wrap\">\n<p>GPT代充官网用于说明网络加速、加速器客户端与机场订阅差异。连接前请核对套餐额度，并遵守当地法律与访问服务的使用条款。</p>\n<p><a href=\"#about\">返回简介</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#faq\">常见问题</a></p>\n</div>\n</footer>\n\n",
+          "hash": "070f859d2d9acf0ad358cd0ab79462eaed34b53545bff6b0390784a7ea8355f8",
+          "seo": {
+            "title": "GPT代充官网｜VPN梯子网络加速、加速器与客户端下载",
+            "keywords": "GPT代充,GPT代充官网,VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官网下载",
+            "description": "GPT代充提供机场订阅式网络加速与多平台客户端说明，涵盖套餐流量、设备数量、流媒体与游戏线路差异，以及从选购到连接的操作步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ratabvd.cn",
+    "host": "p-bf901672d7.ratabvd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6d7c7ba8257417cc5e16efa75101d70fe9322d93b751888aacefd22dc795c66e",
+    "sitemap.xml": "e3891f9936d8c106b0ccc1c14beb229ca881b5775de77d0e0ed83a1993133605",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e12c38c905ec6dcb2b418bddab6952e85900b461997968275d1bad5c301082d4",
+    "robots.txt": "7816ecbe6dacfcbd8c0bc81eea549a39a83ca3ad8e5e7862b150de688c6920a2",
+    "38e96b5da0744b84267ebc566e9d0218.txt": "0525d14bd2aad1ac4cc061d00f01657f3889c919fef4abf9fc95ae511c6fdb54"
+  },
+  "revision": "e076324c9f496a0102ad2568181f748602ba1e13ae5ef009744bdb55b38063a9"
+}
